@@ -24,7 +24,7 @@ const App: React.FC = () => {
     <HelmetProvider>
       <ThemeProvider theme={theme}>
         <GlobalStyle />
-        <Router>
+        <Router basename="/tea-delights">
           <Header />
           <main>
             <Routes>
