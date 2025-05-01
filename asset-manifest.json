@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/tea-delights/static/js/main.f8c8421a.js",
+    "index.html": "/tea-delights/index.html",
+    "main.f8c8421a.js.map": "/tea-delights/static/js/main.f8c8421a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f8c8421a.js"
+  ]
+}
